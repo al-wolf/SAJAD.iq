@@ -1,6 +1,7 @@
 #!/bin/bash
 
 
+
 memTotal_b=`free -b |grep Mem |awk '{print $2}'`
 memFree_b=`free -b |grep Mem |awk '{print $4}'`
 memBuffer_b=`free -b |grep Mem |awk '{print $6}'`
