@@ -211,7 +211,7 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-    "admin",
+   "admin",
     "onservice",
     "inrealm",
     "ingroup",
@@ -277,7 +277,7 @@ function create_config( )
     "linkpv",
     "sudolist"
     },
-    sudo_users = {124406196},--Sudo users
+    sudo_users = {113644348},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[DevPoint v1
 An advanced administration bot based on TG-CLI written in Lua
