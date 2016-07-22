@@ -27,14 +27,14 @@ rst=$'\e[0m'
 
 cat << EOF
 
- $f1  @DevPointTeam     $f2 @DevPointTeam     $f3  @DevPointTeam   $f4  @DevPointTeam    $f5 @DevPointTeam    $f6 @DevPointTeam  $rst
+ $f1  @sajad_iq98     $f2 @sajad_iq98     $f3  @sajad_iq98   $f4  @sajad_iq98    $f5 @sajad_iq98    $f6 @sajad_iq98  $rst
 
 EOF
-echo -e "                \e[100m                DevPoint script           \e[00;37;40m"
+echo -e "                \e[100m                SAJAD.iq script           \e[00;37;40m"
 echo -e "               \e[01;34m                 By Aziz                \e[00;37;40m"
 echo ""
 cat << EOF
- $bld$f1 @DevPointTeam   $f2 @DevPointTeam    $f3  @DevPointTeam    $f4 @DevPointTeam   $f5 @DevPointTeam    $f6  @DevPointTeam  $rst
+ $bld$f1 @sajad_iq98   $f2 @sajad_iq98    $f3  @sajad_iq98    $f4 @sajad_iq98   $f5 @sajad_iq98    $f6  @sajad_iq98  $rst
 
 
 EOF
@@ -55,10 +55,10 @@ sleep 0.5
 
 
 echo ""
-echo -e "\033[38;5;208m     > Channel : @DevPointTeam                         \033[0;00m"
-echo -e "\033[38;5;208m     > Developer : @TH3_GHOST                        \033[0;00m"
-echo -e "\033[38;5;208m     > Bot ID : @SuperDevPoint                         \033[0;00m"
-echo -e "\033[38;5;208m     > Github : GitHub.com/DevPointTeam/DevPoint      \033[0;00m"
+echo -e "\033[38;5;208m     > Channel : @sajad_iq98                         \033[0;00m"
+echo -e "\033[38;5;208m     > Developer : @sajjad_iq98                        \033[0;00m"
+echo -e "\033[38;5;208m     > Github :   github.com/blackops97/SAJAD.iq       \033[0;00m"
+echo -e "\033[38;5;208m                                                      \033[0;00m"
 echo -e "\033[38;5;208m                                                   \033[0;00m"
 
 sleep 1.5
@@ -173,14 +173,14 @@ bld=$'\e[1m'
 rst=$'\e[0m'
 
 cat << EOF
- $f1  @DevPointTeam     $f2 @DevPointTeam     $f3  @DevPointTeam   $f4  @DevPointTeam    $f5 @DevPointTeam    $f6 @DevPointTeam  $rst
+ $f1  @sajjad_iq98     $f2 @sajjad_iq98     $f3  @sajjad_iq98   $f4  @sajjad_iq98    $f5 @sajjad_iq98    $f6 @sajjad_iq98  $rst
 
 EOF
-echo -e "                \e[100m                DevPoint script           \e[00;37;40m"
+echo -e "                \e[100m                SAJAD.iq script           \e[00;37;40m"
 echo -e "               \e[01;34m                 By Aziz                \e[00;37;40m"
 echo ""
 cat << EOF
- $bld$f1 @DevPointTeam   $f2 @DevPointTeam    $f3  @DevPointTeam    $f4 @DevPointTeam   $f5 @DevPointTeam    $f6  @DevPointTeam  $rst
+ $bld$f1 @sajjad_iq98   $f2 @sajjad_iq98    $f3  @sajjad_iq98    $f4 @sajjad_iq98   $f5 @sajjad_iq98    $f6  @sajjad_iq98  $rst
 
 
 EOF
@@ -201,11 +201,12 @@ sleep 0.5
 
 
 echo ""
-echo -e "\033[38;5;208m     > Channel : @DevPointTeam                         \033[0;00m"
-echo -e "\033[38;5;208m     > Developer : @TH3_GHOST                        \033[0;00m"
-echo -e "\033[38;5;208m     > Bot ID : @SuperDevPoint                         \033[0;00m"
-echo -e "\033[38;5;208m     > Github : GitHub.com/DevPointTeam/DevPoint      \033[0;00m"
+echo -e "\033[38;5;208m     > Channel : @sajad_iq98                         \033[0;00m"
+echo -e "\033[38;5;208m     > Developer : @sajjad_iq98                        \033[0;00m"
+echo -e "\033[38;5;208m     > Github :   github.com/blackops97/SAJAD.iq       \033[0;00m"
+echo -e "\033[38;5;208m                                                      \033[0;00m"
 echo -e "\033[38;5;208m                                                   \033[0;00m"
+
 
 # Starting preliminar setup
 sleep 1.5
@@ -482,10 +483,10 @@ while getopts ":tsTSih" opt; do
 	echo ""
 	echo -e "\e[0m"
 echo ""
-echo -e "\033[38;5;208m     > Channel : @DevPointTeam                         \033[0;00m"
-echo -e "\033[38;5;208m     > Developer : @TH3_GHOST                        \033[0;00m"
-echo -e "\033[38;5;208m     > Bot ID : @SuperDevPoint                         \033[0;00m"
-echo -e "\033[38;5;208m     > Github : GitHub.com/DevPointTeam/DevPoint      \033[0;00m"
+echo -e "\033[38;5;208m     > Channel : @sajad_iq98                         \033[0;00m"
+echo -e "\033[38;5;208m     > Developer : @sajjad_iq98                        \033[0;00m"
+echo -e "\033[38;5;208m     > Github :   github.com/blackops97/SAJAD.iq       \033[0;00m"
+echo -e "\033[38;5;208m                                                      \033[0;00m"
 echo -e "\033[38;5;208m                                                   \033[0;00m"
 echo ""
 	exit 1
