@@ -1115,6 +1115,7 @@ function muted_user_list(chat_id)
 	return text
 end
 
+
 --End Chat Mutes
 
 -- /id by reply
