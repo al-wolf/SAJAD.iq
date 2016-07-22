@@ -285,13 +285,12 @@ An advanced administration bot based on TG-CLI written in Lua
 https://github.com/DevPointTeam/DevPoint
 
 Admins
-@TH3_GHOST
-@MOHAMMED_ZEDAN
+@sajad_iq98
 Channel DEV POINT TEAM
-@DevPointTeam
+@sajjad_iq98
 Special thanks to Teleseed
 channel SEED TEAM
-@teleseedch [English]
+@teleseedch [English/arabic]
 
 ]],
     help_text_realm = [[
