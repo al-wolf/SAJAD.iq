@@ -126,7 +126,7 @@ else
     exit 1
   fi
   
-  chmod 777 sajad_iq98.sh
+  chmod 777 SAJAD_iq.sh
   
   #Adding some color. By @MehdiHS
    echo -e "\033[38;5;208m"
