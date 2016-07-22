@@ -1196,7 +1196,7 @@ function ban_by_reply(extra, success, result)
 		return
 	end
 end
-
+ 
 -- Ban by reply for admins
 function ban_by_reply_admins(extra, success, result)
 	if type(result) == 'boolean' then
