@@ -126,14 +126,14 @@ else
     exit 1
   fi
   
-  chmod 777 devpoint.sh
+  chmod 777 sajad_iq98.sh
   
   #Adding some color. By @MehdiHS
    echo -e "\033[38;5;208m"
-   echo -e "     > Channel : @DevPointTeam                        "
-   echo -e "     > Developer : @TH3_GHOST                       "
-   echo -e "     > Bot ID : @SuperDevPoint                        "
-   echo -e "     > Github : GitHub.com/DevPointTeam/DevPoint     "
+   echo -e "     > Channe  : @sajad_iq98                        "
+   echo -e "     > Developer : @sajjad_iq98                     "
+   echo -e "     > Github : Github.com/blackops97/SAJAD.iq      "
+   echo -e "     >      "
    echo -e "                                              \033[0;00m"
    echo -e "\e[36m"
   ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/devpoint.lua -l 1 -E $@
